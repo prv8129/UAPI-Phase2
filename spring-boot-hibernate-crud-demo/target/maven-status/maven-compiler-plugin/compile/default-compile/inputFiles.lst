@@ -1,0 +1,17 @@
+/Users/praveen.sahu/Downloads/Workspace/spring-boot-hibernate-crud-demo/src/main/java/com/zee/demo/service/RemainderService.java
+/Users/praveen.sahu/Downloads/Workspace/spring-boot-hibernate-crud-demo/src/main/java/com/zee/demo/web/EmployeeController.java
+/Users/praveen.sahu/Downloads/Workspace/spring-boot-hibernate-crud-demo/src/main/java/com/zee/demo/service/FavoriteService.java
+/Users/praveen.sahu/Downloads/Workspace/spring-boot-hibernate-crud-demo/src/main/java/com/zee/demo/web/RemainderController.java
+/Users/praveen.sahu/Downloads/Workspace/spring-boot-hibernate-crud-demo/src/main/java/com/zee/ro/FavoriteRO.java
+/Users/praveen.sahu/Downloads/Workspace/spring-boot-hibernate-crud-demo/src/main/java/com/zee/demo/repository/EmployeeRepository.java
+/Users/praveen.sahu/Downloads/Workspace/spring-boot-hibernate-crud-demo/src/main/java/com/zee/demo/exception/RecordNotFoundException.java
+/Users/praveen.sahu/Downloads/Workspace/spring-boot-hibernate-crud-demo/src/main/java/com/zee/util/FavoriteUtil.java
+/Users/praveen.sahu/Downloads/Workspace/spring-boot-hibernate-crud-demo/src/main/java/com/zee/demo/service/EmployeeService.java
+/Users/praveen.sahu/Downloads/Workspace/spring-boot-hibernate-crud-demo/src/main/java/com/zee/demo/model/EmployeeEntity.java
+/Users/praveen.sahu/Downloads/Workspace/spring-boot-hibernate-crud-demo/src/main/java/com/zee/demo/DemoApplication.java
+/Users/praveen.sahu/Downloads/Workspace/spring-boot-hibernate-crud-demo/src/main/java/com/zee/demo/model/FavoriteEntity.java
+/Users/praveen.sahu/Downloads/Workspace/spring-boot-hibernate-crud-demo/src/main/java/com/zee/demo/repository/FavoriteRepository.java
+/Users/praveen.sahu/Downloads/Workspace/spring-boot-hibernate-crud-demo/src/main/java/com/zee/util/RemainderUtil.java
+/Users/praveen.sahu/Downloads/Workspace/spring-boot-hibernate-crud-demo/src/main/java/com/zee/demo/web/FavoriteController.java
+/Users/praveen.sahu/Downloads/Workspace/spring-boot-hibernate-crud-demo/src/main/java/com/zee/demo/exception/CustomError.java
+/Users/praveen.sahu/Downloads/Workspace/spring-boot-hibernate-crud-demo/src/main/java/com/zee/ro/RemainderRO.java
